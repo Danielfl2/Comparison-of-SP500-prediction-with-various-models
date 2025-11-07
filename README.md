@@ -1,1 +1,3 @@
 # Predicting-S-P500
+
+Se intenta predecir el log-retorno del S&P500 usando varios modelos, se les compara y se analiza el peso de las variables. El reporte ejecutivo o presentación se encuentra en el pdf "Reporte_ejecutivo.pdf", el reporte teorico se encuentra en "Reporte_teorico.pdf" el experimento se encuentra en la notebook "SP500_Prediction", de querer recrear la descarga de los tickers de wikipedia se necesita la libreria wikipedia y se ejecuta "get_companies.ipynb", de lo contrario los tickers ya se encuentran descargados en "companies.csv". Las librerias usadas y requeridas para ejecutar el codigo se encuentra en "requirements.txt" 
